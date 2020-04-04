@@ -1,6 +1,16 @@
-# Design Library: open source set of design components
+![design lib](./assets/designlib.svg)
 
-## Tools
+# Table of Contents
+* [What is designlib?](#what-is-designlib)
+---
 
-### Color Palettes
-* [Coolors](https://coolors.co/)
+## What is designlib?
+
+
+## List of Tools
+
+### Vector Graphics
+* [Inkscape](https://inkscape.org): A free and open source, yet professional quality vector graphics software.
+
+### Colors
+* [Coolors](https://coolors.co/): Automatically generates color palettes for your projects.

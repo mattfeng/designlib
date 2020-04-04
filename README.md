@@ -1,4 +1,6 @@
-![design lib](./assets/designlib.svg)
+<p align="center">
+    <img src="./assets/designlib.svg">
+</p>
 
 # Table of Contents
 * [What is designlib?](#what-is-designlib)
